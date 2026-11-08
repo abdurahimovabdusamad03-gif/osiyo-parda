@@ -1,0 +1,13 @@
+{
+  "name": "osiyo-parda",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Osiyo Home Collection — parda katalogi, kalkulyator va admin panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --no-warnings server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
